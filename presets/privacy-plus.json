@@ -24,6 +24,6 @@
     "enableDriverBlocklist": true,
     "tuneMouseLatency": true,
     "tuneDefenderCpuLimit": true,
-    "enableUltimatePerformance": false
+    "enableUltimatePerformance": true
   }
 }
